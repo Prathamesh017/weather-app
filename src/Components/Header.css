@@ -1,0 +1,10 @@
+.header-title{
+    background-color: #32363E;
+    font-size: 3rem;
+    width: 100%;
+    text-align: center;
+    padding: 1em 0.5em;
+    color:white;
+    text-transform: capitalize;
+}
+
